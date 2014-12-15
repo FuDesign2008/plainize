@@ -3,10 +3,11 @@ define(function (require) {
 
     var $ = window.jQuery || window.$,
         PLAINIZE = require('../src/plainize'),
-        console = require('../src/core/console');
+        console = require('../src/core/console'),
+        testUrl = './test.txt';
 
     $.ajax({
-        url: './html.txt',
+        url: testUrl,
         dataType: 'text',
         success: function (data) {
             var plainized = PLAINIZE(data, {}),
