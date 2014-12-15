@@ -7,11 +7,13 @@ define(function (require) {
      * @param {Integer} len
      * @param {String} padStr [optional] default is ' '
      * @param {String} type [optional] default is 'left'
+     * @param {Function} fn
      *
      */
-    return function (str, length, padStr, type) {
+    return function (str, length, padStr, type, fn) {
         str = str == null ? '' : String(str);
-        var padlen  = 0;
+        var padlen  = 0,
+            strLen = fn ? fn(str) : str.length;
 
         if (!padStr) {
             padStr = ' ';
@@ -21,14 +23,14 @@ define(function (require) {
 
         switch (type) {
         case 'right':
-            padlen = length - str.length;
+            padlen = length - strLen;
             return str + TIMES(padStr, padlen);
         case 'both':
-            padlen = length - str.length;
+            padlen = length - strLen;
             return TIMES(padStr, Math.ceil(padlen / 2)) + str +
                 TIMES(padStr, Math.floor(padlen / 2));
         default: // 'left'
-            padlen = length - str.length;
+            padlen = length - strLen;
             return TIMES(padStr, padlen) + str;
         }
 

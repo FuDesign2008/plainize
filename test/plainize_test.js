@@ -2,9 +2,9 @@
 define(function (require) {
 
     var $ = window.jQuery || window.$,
-        PLAINIZE = require('../src/plainize'),
+        PLAINIZE = require('../src/plainize/plainize'),
         console = require('../src/core/console'),
-        testUrl = './test.txt';
+        testUrl = './vim.txt';
 
     $.ajax({
         url: testUrl,

@@ -6,13 +6,13 @@
  */
 
 define(function (require) {
-    var console = require('./core/console'),
-        _ = require('./core/underscore'),
+    var console = require('../core/console'),
+        _ = require('../core/underscore'),
         //IS_TAG = require('./web/dom/isTag'),
-        NODE_TYPE = require('./web/dom/nodeType'),
-        PARSE_HTML = require('./web/dom/parseHTML'),
+        NODE_TYPE = require('../web/dom/nodeType'),
+        PARSE_HTML = require('../web/dom/parseHTML'),
         //INNER_TEXT = require('./web/dom/innerText'),
-        TRIM = require('./core/str/trim'),
+        TRIM = require('../core/str/trim'),
         FORMATTER = require('./formatter'),
         blockElements = [
             'address',
@@ -51,7 +51,8 @@ define(function (require) {
         ],
         plainize,
         /**
-         * @param {Node}
+         * @param {Node} node
+         * @param {Object} options
          * @return {String}
          */
         /*jshint maxcomplexity: 20 */
@@ -115,12 +116,12 @@ define(function (require) {
                         break;
                     default:
                         text += elementWalk(node, options);
-                        if (text) {
+                        if (TRIM(text)) {
                             console.log(tag);
                             if (_.include(blockElements, tag)) {
-                                text += '\n';
+                                text = '\n' + text + '\n';
                             } else {
-                                text += ' ';
+                                text = text;
                             }
                         }
                         break;
@@ -142,7 +143,8 @@ define(function (require) {
      *
      */
     plainize = function (html, options) {
-        var wrapper;
+        var wrapper,
+            text;
 
         if (NODE_TYPE.isNode(html)) {
             wrapper = html;
@@ -171,7 +173,15 @@ define(function (require) {
             }
         }, options);
 
-        return walk(wrapper, options);
+        options._level = 0;
+
+        text = walk(wrapper, options);
+
+        text = text.replace(/(\r?\n){2}/g, '\n');
+        text = text.replace(/(\r?\n){3,}/g, '\n\n');
+        //text = text.replace(/\s{2,}/g, ' ');
+
+        return TRIM(text);
     };
 
 
