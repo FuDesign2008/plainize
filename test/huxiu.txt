@@ -1,0 +1,1320 @@
+<div class="hx-hover-card" style="top: 18px; left: 182px;"><div class="hx-hover-card-arrow2"></div><div class="hx-hover-card-border"></div><div class="hx-hover-card-container"><div class="hx-hover-card-content">
+        <div class="hx-hover-card-left">
+            <p class="p1"><a class="hx-hover-card-avator" href="/member/161540.html" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/16/15/40_avatar_middle.jpg" height="60" width="60"></a></p>
+            <p class="p2"><span class="hx-card-btn dy-btn" title="订阅TA的文章" act="add_author" uid="161540">订阅</span></p>
+            <p class="p3"><a class="hx-card-btn sx-btn" href="/member/sendmsg_message.html?msgto=电商老兵斗牛士" target="_blank">私信</a></p>
+        </div>
+        <div class="hx-hover-card-ctt">
+            <div class="hx-hover-card-name">
+                <a href="/member/161540.html">电商老兵斗牛士</a><a href="/member/161540/authorapply.html" target="_blank" class="c-hxrz hxrzzz hxrzzz-level-4" title="虎嗅认证作者"></a>
+            </div>
+            <div class="hx-hover-card-info"><div class="hx-hover-card-level"><i class="s-level"><i class="gh-bg2 hxrz-lv-4"></i></i></div><div class="hx-hover-card-signaure">互联网战略分析师，关注传统产业互联网战略转型！微信号torero2013</div><div class="hx-hover-card-email"><i class="icon-gl2 icon-email2"></i><span>保密</span></div><div class="hx-hover-card-weibo"><i class="icon-gl2 icon-weibo2"></i><a href="http://www.weibo.com/penghailiang" target="_blank">http://www.weibo.com/penghailiang</a></div></div><div class="hx-hover-card-other">
+                <p class="p1"><i class="icon-gl2 icon-weixin2" title="微信公众号"></i></p><p class="p-mp-name">斗牛人</p><p class="p-qrcode" title="微信公众号"><img src="http://upload.huxiu.com/upload/weixing/erweima/161540/wx_public_thumb.jpg" alt=""></p></div></div></div></div></div>
+        <div class="container-hx">
+            <div class="top">
+    <div class="top-box">
+        <h1 class="logo"><a href="http://www.huxiu.com"><img src="/static/img/top_logo.png"></a></h1>
+        <div class="login-box">
+            <div class="btn-group">
+                <a href="javascript:void(0);" class="contribute dropdown-toggle js-dropdown-btn-tougao" data-toggle="dropdown" title="投稿">投稿</a>
+                <ul class="dropdown-menu num-dropdown dropdown-menu-tougao js-dropdown-menu-tougao" role="menu" aria-labelledby="dLabel">
+                    <li><a href="/member/draft_article.html">草稿箱<span></span></a></li>
+                    <li><a href="/contribute?action=newdraft" target="_blank">创建新投稿</a></li>
+                </ul>
+            </div>
+                            <div class="btn-group">
+                    <a href="#lgnModal" data-toggle="modal">登录</a>
+                    <a href="/user/register.html">注册</a>
+                </div>
+
+            <div class="btn-group">
+                <a href="/rss" title="RSS"><i class="icon-rss"></i></a>
+            </div>
+        </div>
+    </div>
+</div><div class="side-menu-hx">
+    <div class="side-menu-top">
+        <ul class="side-menu-list">
+            <li><a href="/">首页</a></li><li class="active"><a href="/focus">看点</a></li><li><a href="/opinions">观点</a></li><li><a href="/books">读点</a></li><li><a href="/products">用点</a></li><li><a href="/tags">标签</a></li><li><a href="/photo">图说</a></li><li><a href="/collections">文集</a></li>        </ul>
+    </div>
+    <div class="search">
+        <form action="/search.html" method="get" class="form-search">
+            <input type="text" name="s" id="s" class="input-text" placeholder="搜索" value="">
+            <button class="search-btn"><i class="icon-search"></i></button>
+        </form>
+    </div>
+</div>                        <div class="row-fluid-wrap-hx">
+                <div class="center-container-hx">
+                    <div class="clearfix row-fluid-hx">
+<div class="banner-ad">
+        <script type="text/javascript">BAIDU_CLB_SLOT_ID = "881258";</script>
+        <script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>
+    </div>
+<script src="/static/js/swplay.js"></script>
+    <div class="center-ctr-wrap" aid="103724">
+    <div class="center-ctr-box">
+        <div class="clearfix neirong">
+                <h1>
+            张小龙说微信坚持“去中心化”，这样真的好吗？        </h1>
+
+        <div class="subtitle-h1">不提供中心化的流量入口，单纯通过游戏进行流量，并不健康</div>
+        <div class="neirong-other">
+            <div class="setFont"><span id="font_small" class="noclose">A<sup>-</sup></span><span id="font_big">A<sup>+</sup></span></div>
+            <span class="recommenders"><a id="author_baidu" class="hx-card" userid="161540" href="/member/161540.html" target="_blank">电商老兵斗牛士</a><a href="/member/161540/authorapply.html" target="_blank" class="c-hxrz hxrzzz hxrzzz-level-4" title="虎嗅认证作者"></a></span><time id="pubtime_baidu">2014-12-12 07:21:00</time><span id="source_baidu" class="hide">来源：<a href="http://www.huxiu.com/article/103724/1.html">虎嗅网</a></span><span id="editor_baidu" class="hide">编辑：虎嗅</span><a href="#odby" class="pinglun-num"><i class="icon-comment"></i><em class="pl-num">32</em></a><span class="tags"><a href="/tags/2263.html" target="_blank">头条</a><a href="/tags/3504.html" target="_blank">移动电商</a><a href="/tags/68.html" target="_blank">微信</a><a href="/tags/43.html" target="_blank">社交</a><a href="/tags/357.html" target="_blank">投稿</a></span>        </div>
+                <!--文章备注信息-->
+                <!-- 管理2 -->
+                <!-- /管理2 -->
+        <!-- 稍后阅读 -->
+        <div class="clearfix read-later toggle-tooltip">
+            <a href="javascript:void(0);" class="a_self pull-right btn btn-primary read-later-btn" data-toggle="tooltip" data-placement="top" data-original-title="保存后在微信中也可查看列表.^_^" data-loading-text="提交中..."><i class="icon-bookmark icon-white" data-original-title="" title=""></i>稍后阅读</a>
+
+        </div>
+        <!-- 稍后阅读 /end -->
+                <div class="neirong-box" id="neirong_box">
+            <table>
+                <tbody><tr>
+                    <td>
+                        <span class="span-img"><img src="http://images.huxiu.com/article/cover/201412/12/072910093155.jpg" alt="张小龙说微信坚持“去中心化”，这样真的好吗？"></span><div><p>在昨日的微信公开课上，张小龙<a href="http://www.huxiu.com/article/103650/1.html" target="_blank">通过视频首次详细阐释了</a>他关于微信公众平台的八大观点，从讲话中可以看到张小龙作为一个顶尖产品经理人的偏执，他是真心把微信当成自己的孩子，不容得有任何过度的商业行为去玷污它的纯洁。</p><p><br></p><p>张小龙的其它观点我不予置评，但对其所言“微信要打造一个真正的去中心化系统，不会提供一个中心化的流量入口来给所有的公众平台方、第三方”，并认为流量的入口在二维码里，对于这一观点老兵持保留意见。</p><p><br></p><p><strong><span style="font-size: 16px; color: rgb(128, 0, 0); font-family: 'Microsoft Yahei';" label="大标题">微信的流量入口真的是“去中心化”吗？</span></strong></p><p><br></p><p>多中心的流量入口不代表没有中心。从目前的实际情况来看，微信的主要流量入口有三块，一是今年上半年推出的微信广点通广告平台，二是微信朋友圈的分享，三是商户线下二维码扫码吸粉。而这三者流量中，操作难度最低也最容易见效的就是投放微信广点通，而且这也成为了微信继游戏之后的另一大收入现金牛，微信广点通本质就是一个中心化的流量入口产品，通过聚合巨量的C端流量贩卖给B端商家，张小龙说“不会提供一个中心化的流量入口来给所有的公众平台方”这实在无法自圆其说。而微信朋友圈的巨大流量也正在成为下一个流量中心等待着腾讯去变现，最终我们可以预测的是在商业利益面前腾讯一定不会错失对朋友圈流量的商业挖掘，可能的变现方式微博和手Q空间的信息流广告已经提供了成功的范本。之前坊间还传闻微信正在密谋搜索，未来推出百度竞价一样的竞价系统概率很高，搜索本身可以算是一个中心化的流量入口。</p><p><br></p><p><strong><span style="font-size: 16px; color: rgb(128, 0, 0); font-family: 'Microsoft Yahei';" label="大标题">微信“去中心化”真的好吗？</span></strong></p><p><br></p><p>张小龙在设计微信时最牛逼的地方就在于开发了微信公众号和微信广点通，将商家和自媒体引入了微信生态体系里，其流量闭环的逻辑是：自媒体为平台制造优质文章吸引用户浏览分享获取粉丝并吸引用户点击广告从获得微信广点通广告联盟的收入，而商家一方面是通过微信广点通在微信自媒体上投放广告获取粉丝，另外一方面同样通过优质文章吸粉，从而实现流量变现。也就是说，商家、自媒体、用户、第三方开发者、平台共同构建了微信的生态系统。</p><p><br></p><p>老兵认为，张小龙倡导微信去中心化概念包括其以前提出的微信不是营销工具的观点，其实都是单纯站在用户的立场来看待这个生态圈。<strong>公众账号后台让人无力吐槽的糟糕体验，对商家各种营销的苛刻限制，已经到了无以复加的地步了。</strong>商家作为平台生态链的关键一环，在为平台引流的同时，会员和用户数据都沉淀到了平台，但作为平台方却没有给到足够的服务能力去帮助商家转化流量，反而做各种限制打压商户。换言之，今天绝大多数开通微信的商家，它们在微信公众号的付出和回报是不成正比的，这最终带来的结果可能是商家最终离开平台，这就像当年所有商家都一窝蜂去开通官方微博，现在却落了个满地鸡毛，新浪微博已经有前车之鉴。微博的衰落固然有微信的崛起、产品体验不佳、未能及时切入更稳定的熟人社交所致，但同样不要忘了微博未能解决商户的流量变现这一重要因素，等推出粉丝通产品时早已为时太晚。</p><p><br></p><p>作为平台方，微信实在不该漠视商户的基本营销诉求，这也是今天中国绝大部分中小企业面临的最迫切需求。商户和消费者都是微信生态圈里的两级，切不可顾此失彼。今天阿里的生态系统为何如此健全，就是因为其整个交易闭环是围绕商户来搭建的，而且也正是阿里聚合了足够海量的商户，反过来吸引了庞大的消费者。</p><p><br></p><p>可能有些人会说如果更多满足商户的营销诉求会导致更多的朋友圈推销产品出现，从而扰乱C端用户的体验。对此，老兵认为这恰恰是因为微信的去中心化思维引发了平台营销的孱弱，未能在商户和用户之间搭建有效的沟通桥梁，商户的营销诉求无法得到满足只能从朋友圈里去宣泄导致的。这就好比是洪水泛滥，仅靠堵是堵不上的，只能靠疏导。此外，任何一个正常的市场都会有小摊小贩，微信朋友圈的营销只占了其中的一小部分商户，并不代表全部。</p><p><br></p><p><strong>从微信平台流量变现角度来说，不提供中心化的流量入口，单纯通过游戏进行流量变现是一种极不健康的生态。</strong>从今年腾讯QQ系产品的游戏营收增速放缓我们已经看出端倪，游戏本身就是一种偏年轻化的变现产品，随着人口红利的下降，未来游戏一定会出现走下坡路，只有切入营销或者交易环节向B端投放广告才能带来最大的流量变现。</p><p><br></p><p><strong><span style="font-size: 16px; color: rgb(128, 0, 0); font-family: 'Microsoft Yahei';" label="大标题">去中心化的微信能干掉淘宝吗？</span></strong></p><p><br></p><p>微信今天跟手淘相比，最大的优点是其去中心化，而缺点也恰恰是去中心化。跟淘宝相比，微信确实提供了更多的流量通路，而且这个通路是封闭式的，不同账户之间的粉丝是相互隔离的，所以对微信商户来说其最大的难点还在于粉丝如何经营，而在阿里平台，商家没有粉丝概念，因为所有的用户都完全沉淀在平台上（相对于微信而言），也就是说如果我今天扫码了某淘宝店铺并不意味着我是它的粉丝，而是平台的粉丝，我对这个店铺是没有忠诚度的，可能改天我就会跑到其他店铺里去买同款产品了。</p><p><br></p><p>最后打个比喻，“去中心化”就好比是一个家庭主妇要去买菜，而一个小贩要去卖菜，结果市场的管理人员却把菜市场给拆了，然后告诉他们你们自己想办法解决买卖问题吧。<strong>“去中心化”实际上是打掉了商品的交易通路，依靠于“去中心化”腾讯要想重拾电商帝国梦，估计也就是个梦而已。</strong>微信显然需要在去中心化和中心化里找到商户、用户、平台三者间利益的平衡点才有可能突破，对张小龙来说，去中心化，只是一位产品经理的理想主义情怀，但在理想和商业利益的天平里，未来腾讯会作出什么样的选择呢？时间会告诉我们答案。</p><p><br></p><p><span label="备注" style="font-size: 16px; color: rgb(51, 51, 51); font-family: 楷体, 楷体_GB2312, SimKai;">电商老兵斗牛士。欢迎关注微信账户：torero2013（个人微信torero2012），新浪微博账户：@电商老兵斗牛士</span></p></div><div class="neirong-shouquan"><span>文章为作者独立观点，不代表虎嗅网立场<br></span></div>                                                    <!-- 向作者提问-->
+                            <a href="javascript:void(0)" class="a_self pull-right btn btn-primary askAuthor" title="点击向作者(@电商老兵斗牛士)提问" name="#向作者提问# @电商老兵斗牛士 "><i class="icon-question-sign icon-white"></i>向作者提问</a>
+
+                        <a href="javascript:void(0);" class="a_self pull-right btn btn-primary add-collect" title="加入文集" aid="103724"><i class="icon-question-sign icon-white"></i>加入文集</a>                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <div class="clearfix pages">
+            <div class="pull-right pgs"></div>        </div>
+                <!-- 分享 -->
+        <div class="share-wrap" id="share_wrap" style="position: relative; display: block; bottom: 0px;">
+            <div class="share-wrap-box">
+    <div class="manage-box1">
+        <div class="like-box">
+            <i class="pos-btn" title="喜欢" opt="aid" aid="103724" id="like">15</i>
+        </div>
+        <div class="favorite-box">
+            <i class="pos-btn" title="收藏" aid="103724" id="favorite">59</i>
+        </div>
+        <div class="nolike-box">
+            <i class="pos-btn" title="没劲" opt="aid" aid="103724" id="nolike">4</i>
+        </div>
+    </div>
+    <div class="share-box side-share-box">
+        <span class="pos-top">分享<i aid="103724">30</i></span>
+        <ul>
+            <li class="pos-btn hxs-tsina" aid="103724" des="hxs_tsina" title="分享到新浪微博"></li>
+            <li class="pos-btn hxs-tqq" aid="103724" des="hxs_tqq" title="分享到腾讯微博"></li>
+            <li class="pos-btn hxs-qzone" aid="103724" des="hxs_qzone" title="分享到QQ空间"></li>
+            <li class="pos-btn hxs-renren" aid="103724" des="hxs_renren" title="分享到人人网"></li>
+            <li class="pos-btn hxs-fontset" title="设置字号"><span>A<sup>+</sup></span></li>
+            <li class="pos-btn hxs-douban" aid="103724" des="hxs_douban" title="分享到豆瓣"></li>
+            <li class="pos-btn hxs-t163" aid="103724" des="hxs_t163" title="分享到网易微博"></li>
+            <li class="pos-btn hxs-linkedin" aid="103724" des="hxs_linkedin" title="分享到linkedin"></li>
+            <li class="pos-btn hxs-tomail" aid="103724" des="hxs_tomail" title="分享到邮件分享"></li>
+        </ul>
+        <i class="pos-btn tools-qrcode" title="点击查看本页二维码
+快速分享到微信朋友圈"></i>
+        <i class="pos-btn i-more">更多</i>
+    </div>
+    <div class="share-box side-share-box2">
+        <ul>
+            <li class="pos-btn hxs-tsina" aid="103724" des="hxs_tsina" title="分享到新浪微博"></li>
+            <li class="pos-btn hxs-tqq" aid="103724" des="hxs_tqq" title="分享到腾讯微博"></li>
+            <li class="pos-btn hxs-qzone" aid="103724" des="hxs_qzone" title="分享到QQ空间"></li>
+            <li class="pos-btn hxs-renren" aid="103724" des="hxs_renren" title="分享到人人网"></li>
+            <li class="pos-btn hxs-douban" aid="103724" des="hxs_douban" title="分享到豆瓣"></li>
+            <li class="pos-btn hxs-t163" aid="103724" des="hxs_t163" title="分享到网易微博"></li>
+            <li class="pos-btn hxs-linkedin" aid="103724" des="hxs_linkedin" title="分享到linkedin"></li>
+            <li class="pos-btn hxs-tomail" aid="103724" des="hxs_tomail" title="分享到邮件分享"></li>
+        </ul>
+    </div>
+</div>        </div>
+        <!-- /分享 -->
+        <!-- 管理2 -->
+                <!-- /管理2 -->
+
+        <div class="neirong-btm">
+            <div class="hx-erweima">
+                <a href="http://www.huxiu.com/weixin.html" target="_blank" class="pull-right hx-erweima-img"><img border="0" src="/static/img/nr_erweima_weixin.png"></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 管理 -->
+    <div class="position-wrap" id="position_wrap" style="display: block; right: 140px; position: fixed; bottom: 70px;">
+            </div>
+    <!-- /管理 -->
+    <div class="related-list"><h3 class="t-h2"><em>您可能感兴趣的文章</em></h3><ul><li><a href="/article/103650/1.html" target="_blank">张小龙首次完整阐述他对微信公众号的设计与规划，招招都戳中微博痛点</a></li><li><a href="/article/25013/1.html" target="_blank">访张小龙：IT由极客来推动？错。</a></li></ul></div>
+
+    <div id="liepin_ad_wide" class="jobAds jobAds-1" style="display: block;"><div class="promo"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.liepin.com/%3Fmscid=h_x_0001" target="_blank"><img src="/static/img/jobAds/liepin_left_8_18.png"></a></div><div class="positions"><ul class="positions-list"><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F309_3098761%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="技术经理">技术经理</dt><dd class="company">网易</dd><dd class="salary">30-50<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F304_3040360%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="数据框架/分析经理">数据框架/分析经理</dt><dd class="company">携程</dd><dd class="salary">15-25<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F308_3080548%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="G3-产品经理（web方向）-PP助手">G3-产品经理（web方向）-PP助手</dt><dd class="company">UC优视</dd><dd class="salary">15-25<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F227_2272745%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="Email and Web Developer">Email and Web Developer</dt><dd class="company">EF Labs</dd><dd class="salary">20-30<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F276_2768700%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="技术支持经理">技术支持经理</dt><dd class="company">携程</dd><dd class="salary">30-40<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F296_2967072%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="规划总工（公关安全方向）">规划总工（公关安全方向）</dt><dd class="company">中兴</dd><dd class="salary">20-30<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F290_2905852%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="APP推广市场总监">APP推广市场总监</dt><dd class="company">2345网站</dd><dd class="salary">20-40<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F314_3141191%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="核心网产品经理  常驻地：菲律宾">核心网产品经理  常驻地：菲律宾</dt><dd class="company">中兴</dd><dd class="salary">18-25<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F291_2910464%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="资深互联网或财经媒体记者">资深互联网或财经媒体记者</dt><dd class="company">2345网站</dd><dd class="salary">15-30<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F301_3013914%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="Business Analyst">Business Analyst</dt><dd class="company">EF Labs</dd><dd class="salary">18-25<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F309_3094545%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="中高级游戏UI设计师">中高级游戏UI设计师</dt><dd class="company">网易</dd><dd class="salary">20-40<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F315_3152690%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="高级交互设计师">高级交互设计师</dt><dd class="company">网易</dd><dd class="salary">15-30<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F295_2957013%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="产品策划(金融方向)J2829">产品策划(金融方向)J2829</dt><dd class="company">网易</dd><dd class="salary">15-25<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F274_2747022%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="市场经理">市场经理</dt><dd class="company">途牛旅游网</dd><dd class="salary">15-30<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F300_3009149%3Fmscid%3Dh_x_0001%26huxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="游戏界面特效师">游戏界面特效师</dt><dd class="company">网易</dd><dd class="salary">16-40<em>万</em></dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=liepin&amp;pos=1&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http%3A%2F%2Fjob.liepin.com%2F185_1856705%3Fmscid%3Dh_x_0001" target="_blank"><dl><dt class="title" title="高级产品经理">高级产品经理</dt><dd class="company">猎聘网</dd><dd class="salary">18-23<em>万</em></dd></dl></a></li></ul></div><div class="left-button job-buttons"><i></i></div><div class="right-button job-buttons"><i></i></div></div>
+
+    <!-- 评论 -->
+    <div class="pinglun" id="pinglun">
+                <h3 class="t-h2" id="odby">
+            <a href="/comment/103724/1.html" target="_blank" class="a-btn"><i class="icon-comment"></i><em class="pl-num">32</em></a>
+            <ul class="inline tab-pinglun-box">
+                <li class="active"><a href="/article/103724/1.html#odby" target="_self" title="按系统默认排序">默认</a></li>
+                <li><a href="/article/103724/1.html?odby=agree#odby" target="_self" title="按评论的价值排序">价值</a></li>
+                <li><a href="/article/103724/1.html?odby=dateline#odby" target="_self" title="按评论的发布时间排序">新鲜</a></li>
+                                        <li><a href="/article/103724/1.html?odby=toauthor#odby" target="_self" title="只看对作者提问">提问</a></li>
+                                    </ul>
+        </h3>
+            <!-- 评论框框架 -->
+
+            <!-- 评论未登录 -->
+        <div class="plwdl-kuang-box">
+            <p>要评论？请先<a href="/user/register?type=register">注册</a>或者<a href="#lgnModal" data-toggle="modal">登录</a>，您也可以快捷登录：</p>
+            <div class="login-kj"><a class="weibo-lgn" href="/user/oauth_login/sina?type=sina&amp;backurl=http://www.huxiu.com/article/103724/1.html">新浪微博帐号登录</a><a class="qq-lgn" href="/user/oauth_login/qq?type=qq&amp;sid=&amp;backurl=http://www.huxiu.com/article/103724/1.html">QQ帐号登录</a></div>
+        </div>
+        <!-- 评论未登录/ -->
+
+    <!-- 评论列表 -->
+    <div class="pinglun-list" id="pinglun_list">
+        <div class="clearfix pinglun-box pinglun-box-set" id="g_pid483742">
+        <div class="user-img">
+            <a href="/member/153632.html" title="mxz99342" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/15/36/32_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="153632" href="/member/153632.html" target="_blank" title="mxz99342">mxz99342</a><span class="signature" title="一马评穿">一马评穿</span>
+
+            <div class="view-info">微信从本质上来讲，首先是个社交的平台，是人与人之间的沟通工具，只是比烽火台、驿站、书信、Email、短信效率更高、连接更广而已，其中最核心的是人和人的信息交流，这是微信对用户的基本价值。其次，微信也可以是个商业工具，不以盈利为目的的商业模式都是耍流氓，所以既然微信的存在需要资源的投入，投入人就一定要有回报，但是回报是不是真的要直接通过微商来获取，感觉未必，各种交叉补偿、间接获益应该是更好的选择。最后，得人心者得天下，腾讯好不容易有个微信能圈住6亿人用，一定不会杀鸡取卵，因为旁边还有一群小鸡环伺，棋错一着满盘皆输的大公司悲剧历历在目，且行且珍惜啊。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 09:26</time>
+           <span class="report-btn" reportid="483742" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483742" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483742" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483742" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483742" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483742" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483742" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483742" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483742" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483742">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><div class="pinglun-box-youliao-mark"><span>有料</span></div></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483832">
+        <div class="user-img">
+            <a href="/member/265821.html" title="卡你老木" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/26/58/21_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="265821" href="/member/265821.html" target="_blank" title="卡你老木">卡你老木</a><span class="signature" title=""></span>
+
+            <div class="view-info">作者果然是电商老兵，言必谈电商。但微信首先是个即时通讯工具，从出发点上和淘宝是不一样的，后来的吸附上去的各种功能都仅仅是“吸附”，不是自己长出来的。拿微信和淘宝作二元对比，这个立论就是不成立的。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 15:13</time>
+           <span class="report-btn" reportid="483832" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483832" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483832" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483832" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483832" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483832" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483832" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483832" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483832" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(4)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span>(1)</span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num">(<em>2</em>)</span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483832">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：注意穿越，牢记背景。微信电商，类比淘宝，之类话题，很久以前就有讨论，老兵怎会不知？只是现在微信官方出来总结，老兵自然也就顺便归纳一番罢了。所以，怎么说呢，不要轻易质疑别人。</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483832" reportid="60755" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/13831.html" title="xhf0207" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/01/38/31_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="13831" href="/member/13831.html" target="_blank" title="xhf0207">xhf0207</a>：赞同，一直想着怎样让微信来做强电商是件很傻的事。腾讯应该认清自己，不是有了微信就有了一切。微信只是腾讯移动社交上的船票。不是整个公司的船票。把整个公司的未来都压在微信上，是很容易压垮的。</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 17:24</time>
+                <span class="pull-right"><span class="report-btn" pid="483832" reportid="60746" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><!--点评mini列表--><div class="clearfix dianping-mini-list"><div class="pull-right dianping-mini-box"><a href="javascript:void(0);" title="注意穿越，牢记背景。微信电商，类比淘宝，之类话题，很久以前就有讨论，老兵怎会不知？只是现在微信官方出来总结，老兵自然也就顺便归纳一番罢了。所以，怎么说呢，不要轻易质疑别人。"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="赞同，一直想着怎样让微信来做强电商是件很傻的事。腾讯应该认清自己，不是有了微信就有了一切。微信只是腾讯移动社交上的船票。不是整个公司的船票。把整个公司的未来都压在微信上，是很容易压垮的。"><img src="http://images.huxiu.com/auth/data/avatar/000/01/38/31_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" class="a-more" title="更多">…</a><i class="icon-i i-dianping-list-jiao"></i></div></div><!--点评mini列表/end--><div class="pinglun-box-youliao-mark"><span>有料</span></div></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483758">
+        <div class="user-img">
+            <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a><span class="signature" title="make difference">make difference</span>
+
+            <div class="view-info">微信捣鼓所谓“去中心化”已有时日，结果现状就是：第三方很滋润，公众号很分裂，用户很纠结，腾讯很无奈。<br>
+两点值得商榷：<br>
+1逆天否？<br>
+市场经济和宏观调控二者阴阳调和，才能够风调雨顺。放任自流，无为而治，结果就是盲目竞争，资源浪费。<br>
+“竞争——垄断——颠覆（技术升级/市场变迁）——竞争”，这是经济活动规律。从这个意义上说，商务“去中心”是个伪命题。大浪淘沙，结果则会出现“多中心”。<br>
+现实中有商圈，网络中有商城。集约经济，才是环保主义。回到“小作坊手工业”时代，制造成本、物流成本、流通成本、营销成本、传播成本将会几何级数增加。<br>
+另外，现在极力鼓噪全民电商，但又没有模式、技术、运作辅导，善良而淳朴的人们只能眨巴着眼睛了。<br>
+微信电商，只要得法，我想多数国人不会反对。但是现在这个“去中心化”玩法，不仅颠覆淘宝无望，而且随时会有生命危险。<br>
+2约了吗？<br>
+微信“去中心化”，应该说是腾讯“连接一切”战略棋子。<br>
+连接一切，大致分为两种路径：<br>
+第一种，提供一站式服务，通过打造超级APP，自带服务或者开放接口，直达或者跳转，满足各种生活场景消费需求。<br>
+号称率先拿到移动互联网船票的微信，一时被鼓噪的舆论推为“移动共主”。结果就是今天大家看到的跨界厮杀，零和博弈。<br>
+事实证明，我们看错了移动，高估了微信。<br>
+这条封闭的道路，彻底违背了互联网开放的精神实质。<br>
+第二种，通过一个帐号体系，实现数据共享，积分互动，松散连接各种应用场景，并不深度介入用户生活（银联模式）。<br>
+这是一个平台模式，这是一种生态建设，多元共生，更加符合时代要求。<br>
+所谓一流的企业建标准，二流的企业树品牌，三流的企业做产品。<br>
+现在，是时候放弃超级APP的产品思维了，在连接标准方面大步流星，率先搭建技术、组织模型，或许腾讯才能在BAT大战中拔得头筹。<br>
+</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 09:54</time>
+           <span class="report-btn" reportid="483758" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483758" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483758" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483758" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483758" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483758" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483758" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483758" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483758" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num">(<em>2</em>)</span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483758">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：回复<a href="http://www.huxiu.com/member/302357.html" target="_blank">@summer10086</a> ：杂文类别，未必正确。//@summer10086：额 ，写得好，能写一篇文章了。。 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483758" reportid="60753" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/302357.html" title="summer10086" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/23/57_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="302357" href="/member/302357.html" target="_blank" title="summer10086">summer10086</a>：额 ，写得好，能写一篇文章了。。</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 16:18</time>
+                <span class="pull-right"><span class="report-btn" pid="483758" reportid="60736" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><!--点评mini列表--><div class="clearfix dianping-mini-list"><div class="pull-right dianping-mini-box"><a href="javascript:void(0);" title="回复@summer10086 ：杂文类别，未必正确。//@summer10086：额 ，写得好，能写一篇文章了。。 "><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="额 ，写得好，能写一篇文章了。。"><img src="http://images.huxiu.com/auth/data/avatar/000/30/23/57_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" class="a-more" title="更多">…</a><i class="icon-i i-dianping-list-jiao"></i></div></div><!--点评mini列表/end--><div class="pinglun-box-youliao-mark"><span>有料</span></div></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483812">
+        <div class="user-img">
+            <a href="/member/254915.html" title="褚少军" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/25/49/15_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="254915" href="/member/254915.html" target="_blank" title="褚少军">褚少军</a><i class="c-hxrz hxrzzz hxrzzz-level-1" title="虎嗅认证作者"></i><span class="signature" title="道可道">道可道</span>
+
+            <div class="view-info">1、关键是角度的问题，本来微信商业化、入驻企业和广大个人用户之间的出发点就是不同的，自然看的角度和各自利益要求也会不同。<br>
+2、张小龙的去中心化思想其实还是比较理想化和偏执的产品经理情怀，出发点相对比较偏重用户，更偏重个人用户体验。但是问题在于张小龙对微信的掌控力以及想法能不能得到腾讯的整体认可和贯彻执行，这是一个未知数。对于腾讯来说，肯定是要考虑商业化的。<br>
+3、作者的角度偏重于运营企业公众账号的一方，自然也是希望微信的发展过程中能够平衡和考虑到企业公众账号的利益，而非一味的不够重视和牺牲企业公众号的权益。<br>
+4、互联网的三大营销模式广告、游戏、电商，微信其实都照搬了，上了微信平台，但是目前看来电商层面并没能取得好的突破，广告也还只是在尝试阶段。所以即使对于腾讯微信这样的移动互联网船票类的产品，在商业化实现和商业化创新上仍然有难度。一定程度上说移动互联网产品的盈利能力暂时还是堪忧的，尤其是商业化和用户体验矛盾对立。<br>
+5、对于微信来说，就光朋友圈的谣言、心灵鸡汤和代购等等就够微信团队折腾的了。要短期内平衡好个人用户、企业用户、微信商业化之间的问题显然是不可能的。但是三者又都是迫在眉睫的，谁都相当重要，谁都牺牲不起。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 13:07</time>
+           <span class="report-btn" reportid="483812" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483812" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483812" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483812" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483812" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483812" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483812" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483812" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483812" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(4)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483812">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><div class="pinglun-box-youliao-mark"><span>有料</span></div></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483778">
+        <div class="user-img">
+            <a href="/member/308280.html" title="楼兰薇妮" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="308280" href="/member/308280.html" target="_blank" title="楼兰薇妮">楼兰薇妮</a><span class="signature" title="Nice to meet yo...">Nice to meet yo...</span>
+
+            <div class="view-info">这篇文章推到首页非常有意思。<br>
+1.什么是去中心化？就是粉丝可以沉淀到个人，而不是集中沉淀到平台，与是不是平台没有必然关系的，平台不一定就是中心化的，非平台不一定是去中心化的。<br>
+2.商业上每笔交易的双方信息是不对称的，这是一个客观真实的情况，不会因为互联把这个世界变扁平变的透明就能改变的。淘宝这个中心化平台是个价格的大杀器，试图抹平这个不对称，结果就造成了大部分卖家不赚钱，要么卖假货要服务质量低下。<br>
+3.去中心化理念应该是尊重每个买家卖家个体当事时所处的具体状态不同而造成的不对称。一对具体的买家和卖家，他们各自的背后资源、一个东西在双方心目中的价值、掌握的信息都是不一样的，是有差异的，应该尊重差异所造成的不对称，而不是试图把他抹平。实际上是抹不平的，如果有平台让大家“认为”你这个平台可以抹平，那么大家集中在你这个平台上，造成了极化（中心化），对整个市场都不利。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 11:16</time>
+           <span class="report-btn" reportid="483778" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483778" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483778" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483778" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483778" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483778" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483778" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483778" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483778" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(3)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span>(1)</span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num">(<em>5</em>)</span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483778">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：回复<a href="http://www.huxiu.com/member/308280.html" target="_blank">@楼兰薇妮</a> ：消除信息不对称，确保沟通有质量，社会进步大法。//@楼兰薇妮：不用刻意制造不对称，不对称是永远的，要尊重事实，才能方向正确。"肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。",赞同你这句话。//@皓音顾问：同台竞技，自然有人出彩，有人献丑。<br>
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。<br>
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。<br>
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。<br>
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。<br>
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。<br>
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。<br>
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）<br>
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。<br>
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。<br>
+生意难做，所以才说一流的人才在商界。&nbsp;&nbsp;</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483778" reportid="60768" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/308280.html" title="楼兰薇妮" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="308280" href="/member/308280.html" target="_blank" title="楼兰薇妮">楼兰薇妮</a>：回复<a href="http://www.huxiu.com/member/1296409.html" target="_blank">@皓音顾问</a> ：不用刻意制造不对称，不对称是永远的，要尊重事实，才能方向正确。"肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。",赞同你这句话。//@皓音顾问：同台竞技，自然有人出彩，有人献丑。<br>
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。<br>
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。<br>
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。<br>
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。<br>
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。<br>
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。<br>
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）<br>
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。<br>
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。<br>
+生意难做，所以才说一流的人才在商界。 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483778" reportid="60761" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：回复<a href="http://www.huxiu.com/member/308280.html" target="_blank">@楼兰薇妮</a> ：根据你的描述，我的自然联想就是“拍卖”，呵呵。非标准、难复制的东西适合这样玩。工业产品，需要主流渠道，或许。//@楼兰薇妮：在合适的时间合适的地点合适买卖双方，以合适的高价成交，交易场景化，才是移动互联网带来的商业变化//@皓音顾问：同台竞技，自然有人出彩，有人献丑。<br>
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。<br>
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。<br>
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。<br>
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。<br>
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。<br>
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。<br>
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）<br>
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。<br>
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。<br>
+生意难做，所以才说一流的人才在商界。&nbsp;&nbsp;</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483778" reportid="60754" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/308280.html" title="楼兰薇妮" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="308280" href="/member/308280.html" target="_blank" title="楼兰薇妮">楼兰薇妮</a>：回复<a href="http://www.huxiu.com/member/1296409.html" target="_blank">@皓音顾问</a> ：在合适的时间合适的地点合适买卖双方，以合适的高价成交，交易场景化，才是移动互联网带来的商业变化//@皓音顾问：同台竞技，自然有人出彩，有人献丑。<br>
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。<br>
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。<br>
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。<br>
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。<br>
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。<br>
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。<br>
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）<br>
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。<br>
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。<br>
+生意难做，所以才说一流的人才在商界。 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 15:35</time>
+                <span class="pull-right"><span class="report-btn" pid="483778" reportid="60734" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：同台竞技，自然有人出彩，有人献丑。<br>
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。<br>
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。<br>
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。<br>
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。<br>
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。<br>
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。<br>
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）<br>
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。<br>
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。<br>
+生意难做，所以才说一流的人才在商界。</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 12:56</time>
+                <span class="pull-right"><span class="report-btn" pid="483778" reportid="60720" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><!--点评mini列表--><div class="clearfix dianping-mini-list"><div class="pull-right dianping-mini-box"><a href="javascript:void(0);" title="回复@楼兰薇妮 ：消除信息不对称，确保沟通有质量，社会进步大法。//@楼兰薇妮：不用刻意制造不对称，不对称是永远的，要尊重事实，才能方向正确。&quot;肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。&quot;,赞同你这句话。//@皓音顾问：同台竞技，自然有人出彩，有人献丑。
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。
+生意难做，所以才说一流的人才在商界。&nbsp;&nbsp;"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@皓音顾问 ：不用刻意制造不对称，不对称是永远的，要尊重事实，才能方向正确。&quot;肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。&quot;,赞同你这句话。//@皓音顾问：同台竞技，自然有人出彩，有人献丑。
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。
+生意难做，所以才说一流的人才在商界。 "><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@楼兰薇妮 ：根据你的描述，我的自然联想就是“拍卖”，呵呵。非标准、难复制的东西适合这样玩。工业产品，需要主流渠道，或许。//@楼兰薇妮：在合适的时间合适的地点合适买卖双方，以合适的高价成交，交易场景化，才是移动互联网带来的商业变化//@皓音顾问：同台竞技，自然有人出彩，有人献丑。
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。
+生意难做，所以才说一流的人才在商界。&nbsp;&nbsp;"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@皓音顾问 ：在合适的时间合适的地点合适买卖双方，以合适的高价成交，交易场景化，才是移动互联网带来的商业变化//@皓音顾问：同台竞技，自然有人出彩，有人献丑。
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。
+生意难做，所以才说一流的人才在商界。 "><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="同台竞技，自然有人出彩，有人献丑。
+商业革命不能一次成功。淘宝本意在于渠道革命、厂家直销，从而实现卖家、买家双赢结局。
+然而有些厂家醉心生产，不愿涉足销售。有些商品需要组合，才能实现价值。因而，渠道商、贸易商仍有生存价值。于是淘宝香火鼎盛，信众繁多。
+肉搏战丑陋，价格战低端。非平台之罪，乃身体有恙。
+规划欠缺，定位模糊，销售不擅话术，运营不得要领，客服不解风情，研发不懂人性，加上产品同质，服务僵化，或许早就已经病入膏肓，遇到价格屠城自然血流成河。
+刻意制造信息“不对称”，如果是为增加神秘感，可以说是“有情调”；如果是把客户当成“冤大头”，那就只能说明自己“很天真”。
+事到如今，莫非还要暗箱操作？透明的环境，差异的服务，才是多元文明，理性消费。
+（何谓差异产品/服务：不同组合，其它材料，替代功能，自有品牌。）
+商业革命的第二步，就不再是渠道、营销议题，而是生产、标准问题。谁能沿着产业链逆流而上，才能掌握商业话语权。时下所谓O2O，已经有点这个趋势。
+总体说来，无论销售还是生产，C2C只会是个补充，B2C才是主流。工厂柔性生产，完全可以满足个性需求。手工作坊，只是回归传统玩点艺术罢了。所以，微信不要指望全民电商。
+生意难做，所以才说一流的人才在商界。"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" class="a-more" title="更多">…</a><i class="icon-i i-dianping-list-jiao"></i></div></div><!--点评mini列表/end--><div class="pinglun-box-youliao-mark"><span>有料</span></div></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483735">
+        <div class="user-img">
+            <a href="/member/11860.html" title="林啊林阿大_" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/01/18/60_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="11860" href="/member/11860.html" target="_blank" title="林啊林阿大_">林啊林阿大_</a><span class="signature" title="俄罗斯男子将阴囊一枚蛋蛋钉在红...">俄罗斯男子将阴囊一枚蛋蛋钉在红...</span>
+
+            <div class="view-info">忍不住从虎嗅公众号跳到网页过来吐槽：一看楼主就知道没有操刀实战经验，全TM为商家讲话，也不想想市场真正用心想做品牌的商家有多少？<br>
+<br>
+微信生态天然就应该成为这帮劣质商户的陈尸地或涅槃点，不然花点钱投入就有产出，投资没风险啊？<br>
+<br>
+有风险也看是什么人在干事，成天宏观面指点，不落地实干，你以为“再小的个体，也可以有品牌”是不分良莠的说给商人听的？不能玩转微信生态的，就去平台烧钱玩流量思维吧，这里不合适你们。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 08:59</time>
+           <span class="report-btn" reportid="483735" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483735" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483735" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483735" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483735" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483735" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483735" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483735" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483735" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(7)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span>(2)</span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483735">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><div class="pinglun-box-youliao-mark"><span>有料</span></div></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483840">
+        <div class="user-img">
+            <a href="/member/32654.html" title="天地一叶" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/03/26/54_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="32654" href="/member/32654.html" target="_blank" title="天地一叶">天地一叶</a><span class="signature" title="网络">网络</span>
+
+            <div class="view-info">作者名字跟其本人的见解一起看真的挺有讽刺意味的，虎嗅能不能不要把这种空脑袋、放空炮的文章拿出来吓人？</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 15:51</time>
+           <span class="report-btn" reportid="483840" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483840" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483840" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483840" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483840" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483840" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483840" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483840" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483840" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num">(<em>7</em>)</span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483840">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：回复<a href="http://www.huxiu.com/member/32654.html" target="_blank">@天地一叶</a> ：好啊，华山论剑，希望热闹一点。静候佳音。//@天地一叶：你翻翻这个作者在百度百家上的文章在说话吧，照你说大家都该搂着排行榜看了，虎嗅这个优秀作者你好像还蛮认同，我就呵呵了，还有啊不要随便说别人冷静不冷静的好不...谁人身在此山中还不一定呢，谁给你的制高点么，过段时间我也写篇吧，到时候m你。//@皓音顾问：年度优秀作者评选刚结束，人家奖杯还没捧热呢。你的评语如果适用“老兵”，那是间接侮辱多数读者"智商"。调节情绪，冷静判断。 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60800" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/32654.html" title="天地一叶" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/03/26/54_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="32654" href="/member/32654.html" target="_blank" title="天地一叶">天地一叶</a>：回复<a href="http://www.huxiu.com/member/1296409.html" target="_blank">@皓音顾问</a> ：你翻翻这个作者在百度百家上的文章在说话吧，照你说大家都该搂着排行榜看了，虎嗅这个优秀作者你好像还蛮认同，我就呵呵了，还有啊不要随便说别人冷静不冷静的好不...谁人身在此山中还不一定呢，谁给你的制高点么，过段时间我也写篇吧，到时候m你。//@皓音顾问：年度优秀作者评选刚结束，人家奖杯还没捧热呢。你的评语如果适用“老兵”，那是间接侮辱多数读者"智商"。调节情绪，冷静判断。//@天地一叶：虚有其表、愚昧大众，推责即是无德，假牧师比真罪犯更害人。 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60799" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：回复<a href="http://www.huxiu.com/member/32654.html" target="_blank">@天地一叶</a> ：年度优秀作者评选刚结束，人家奖杯还没捧热呢。你的评语如果适用“老兵”，那是间接侮辱多数读者"智商"。调节情绪，冷静判断。//@天地一叶：虚有其表、愚昧大众，推责即是无德，假牧师比真罪犯更害人。//@皓音顾问：谢！ </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60798" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/32654.html" title="天地一叶" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/03/26/54_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="32654" href="/member/32654.html" target="_blank" title="天地一叶">天地一叶</a>：回复<a href="http://www.huxiu.com/member/1296409.html" target="_blank">@皓音顾问</a> ：虚有其表、愚昧大众，推责即是无德，假牧师比真罪犯更害人。//@皓音顾问：谢！//@小牧童：回复@皓音顾问顶&nbsp;&nbsp; </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60787" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：回复<a href="http://www.huxiu.com/member/307948.html" target="_blank">@小牧童</a> ：谢！//@小牧童：回复@皓音顾问顶&nbsp;&nbsp;</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60767" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/307948.html" title="小牧童" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/79/48_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="307948" href="/member/307948.html" target="_blank" title="小牧童">小牧童</a>：回复<a href="http://www.huxiu.com/member/1296409.html" target="_blank">@皓音顾问</a>顶 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60759" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1296409.html" title="皓音顾问" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1296409" href="/member/1296409.html" target="_blank" title="皓音顾问">皓音顾问</a>：取其精华，弃其糟粕。让你坚信，或使你质疑；给你启迪，或帮你重温，都是一种贡献，所以烦请口下留情。</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">3天前</time>
+                <span class="pull-right"><span class="report-btn" pid="483840" reportid="60756" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><!--点评mini列表--><div class="clearfix dianping-mini-list"><div class="pull-right dianping-mini-box"><a href="javascript:void(0);" title="回复@天地一叶 ：好啊，华山论剑，希望热闹一点。静候佳音。//@天地一叶：你翻翻这个作者在百度百家上的文章在说话吧，照你说大家都该搂着排行榜看了，虎嗅这个优秀作者你好像还蛮认同，我就呵呵了，还有啊不要随便说别人冷静不冷静的好不...谁人身在此山中还不一定呢，谁给你的制高点么，过段时间我也写篇吧，到时候m你。//@皓音顾问：年度优秀作者评选刚结束，人家奖杯还没捧热呢。你的评语如果适用“老兵”，那是间接侮辱多数读者&quot;智商&quot;。调节情绪，冷静判断。 "><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@皓音顾问 ：你翻翻这个作者在百度百家上的文章在说话吧，照你说大家都该搂着排行榜看了，虎嗅这个优秀作者你好像还蛮认同，我就呵呵了，还有啊不要随便说别人冷静不冷静的好不...谁人身在此山中还不一定呢，谁给你的制高点么，过段时间我也写篇吧，到时候m你。//@皓音顾问：年度优秀作者评选刚结束，人家奖杯还没捧热呢。你的评语如果适用“老兵”，那是间接侮辱多数读者&quot;智商&quot;。调节情绪，冷静判断。//@天地一叶：虚有其表、愚昧大众，推责即是无德，假牧师比真罪犯更害人。 "><img src="http://images.huxiu.com/auth/data/avatar/000/03/26/54_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@天地一叶 ：年度优秀作者评选刚结束，人家奖杯还没捧热呢。你的评语如果适用“老兵”，那是间接侮辱多数读者&quot;智商&quot;。调节情绪，冷静判断。//@天地一叶：虚有其表、愚昧大众，推责即是无德，假牧师比真罪犯更害人。//@皓音顾问：谢！ "><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@皓音顾问 ：虚有其表、愚昧大众，推责即是无德，假牧师比真罪犯更害人。//@皓音顾问：谢！//@小牧童：回复@皓音顾问顶&nbsp;&nbsp; "><img src="http://images.huxiu.com/auth/data/avatar/000/03/26/54_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@小牧童 ：谢！//@小牧童：回复@皓音顾问顶&nbsp;&nbsp;"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@皓音顾问顶 "><img src="http://images.huxiu.com/auth/data/avatar/000/30/79/48_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="取其精华，弃其糟粕。让你坚信，或使你质疑；给你启迪，或帮你重温，都是一种贡献，所以烦请口下留情。"><img src="http://images.huxiu.com/auth/data/avatar/001/29/64/09_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" class="a-more" title="更多">…</a><i class="icon-i i-dianping-list-jiao"></i></div></div><!--点评mini列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483728">
+        <div class="user-img">
+            <a href="/member/335763.html" title="582945769a" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/33/57/63_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="335763" href="/member/335763.html" target="_blank" title="582945769a">582945769a</a><span class="signature" title=""></span>
+
+            <div class="view-info">设想一下，如果有一天你打开朋友圈，铺天盖地的各种广告，各种产品信息，你还会去在用微信吗？微信立足的根本是点对点的社交，如果抛弃或严重影响这个功能的发辉，再美好的营销和商业设想最终也会流于幻想。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 08:30</time>
+           <span class="report-btn" reportid="483728" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483728" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483728" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483728" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483728" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483728" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483728" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483728" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483728" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(2)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num">(<em>5</em>)</span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483728">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/335763.html" title="582945769a" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/33/57/63_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="335763" href="/member/335763.html" target="_blank" title="582945769a">582945769a</a>：回复<a href="http://www.huxiu.com/member/1316282.html" target="_blank">@长远</a> ：是啊，有点小无奈//@长远：还用有一天吗？现在朋友圈代购微商已经铺天盖地了 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">6小时前</time>
+                <span class="pull-right"><span class="report-btn" pid="483728" reportid="60872" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/335763.html" title="582945769a" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/33/57/63_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="335763" href="/member/335763.html" target="_blank" title="582945769a">582945769a</a>：回复<a href="http://www.huxiu.com/member/308280.html" target="_blank">@楼兰薇妮</a> ：不可否认的它的确影响到了我们的体验，当然，我自己会直接屏蔽代购微商账号。//@楼兰薇妮：现在朋友圈代购微商已经铺天盖地了，不喜欢就屏蔽他，主动权在你 </span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">6小时前</time>
+                <span class="pull-right"><span class="report-btn" pid="483728" reportid="60871" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/308280.html" title="楼兰薇妮" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="308280" href="/member/308280.html" target="_blank" title="楼兰薇妮">楼兰薇妮</a>：现在朋友圈代购微商已经铺天盖地了，不喜欢就屏蔽他，主动权在你</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 10:55</time>
+                <span class="pull-right"><span class="report-btn" pid="483728" reportid="60713" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1314123.html" title="siberialiu" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/31/41/23_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1314123" href="/member/1314123.html" target="_blank" title="siberialiu">siberialiu</a>： 赞赞赞</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 09:52</time>
+                <span class="pull-right"><span class="report-btn" pid="483728" reportid="60709" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/1316282.html" title="长远" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/31/62/82_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="1316282" href="/member/1316282.html" target="_blank" title="长远">长远</a>：还用有一天吗？现在朋友圈代购微商已经铺天盖地了</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 09:35</time>
+                <span class="pull-right"><span class="report-btn" pid="483728" reportid="60703" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><!--点评mini列表--><div class="clearfix dianping-mini-list"><div class="pull-right dianping-mini-box"><a href="javascript:void(0);" title="回复@长远 ：是啊，有点小无奈//@长远：还用有一天吗？现在朋友圈代购微商已经铺天盖地了 "><img src="http://images.huxiu.com/auth/data/avatar/000/33/57/63_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="回复@楼兰薇妮 ：不可否认的它的确影响到了我们的体验，当然，我自己会直接屏蔽代购微商账号。//@楼兰薇妮：现在朋友圈代购微商已经铺天盖地了，不喜欢就屏蔽他，主动权在你 "><img src="http://images.huxiu.com/auth/data/avatar/000/33/57/63_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="现在朋友圈代购微商已经铺天盖地了，不喜欢就屏蔽他，主动权在你"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title=" 赞赞赞"><img src="http://images.huxiu.com/auth/data/avatar/001/31/41/23_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" title="还用有一天吗？现在朋友圈代购微商已经铺天盖地了"><img src="http://images.huxiu.com/auth/data/avatar/001/31/62/82_avatar_middle.jpg" width="20" height="20"></a><a href="javascript:void(0);" class="a-more" title="更多">…</a><i class="icon-i i-dianping-list-jiao"></i></div></div><!--点评mini列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483823">
+        <div class="user-img">
+            <a href="/member/188040.html" title="37度_NKU" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/18/80/40_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="188040" href="/member/188040.html" target="_blank" title="37度_NKU">37度_NKU</a><span class="signature" title=""></span>
+
+            <div class="view-info">读到一半，什么破文章。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 14:11</time>
+           <span class="report-btn" reportid="483823" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483823" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483823" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483823" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483823" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483823" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483823" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483823" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483823" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(5)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483823">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483738">
+        <div class="user-img">
+            <a href="/member/300812.html" title="朝聆夕改" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/08/12_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="300812" href="/member/300812.html" target="_blank" title="朝聆夕改">朝聆夕改</a><span class="signature" title="站在产品的角度，评论和修改一些...">站在产品的角度，评论和修改一些...</span>
+
+            <div class="view-info">本来是想吐槽的，但是看了楼下评论后，我觉得这就差不多了。本来这文章写得就让人看不下去，所以我就没读完。。。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 09:17</time>
+           <span class="report-btn" reportid="483738" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483738" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483738" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483738" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483738" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483738" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483738" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483738" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483738" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(2)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span>(1)</span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num">(<em>1</em>)</span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483738">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><!--点评块-->
+                <div class="clearfix dianping-box dianping-box-set">
+                <div class="user-img">
+                <a href="/member/308280.html" title="楼兰薇妮" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="35" height="35"></a>
+                <div class="wz-author"></div></div>
+                <div class="dianping-box-text">
+                <span class="dd-s"><a class="name hx-card" userid="308280" href="/member/308280.html" target="_blank" title="楼兰薇妮">楼兰薇妮</a>：文章还是不错的，实战出来的理论</span>
+                <div class="clearfix dianping-func">
+                <time class="pull-left s-time">2014-12-12 09:44</time>
+                <span class="pull-right"><span class="report-btn" pid="483738" reportid="60706" aid="103724" typename="dianping">举报</span><span class="pinglun-reply-btn">回复</span></span></div></div></div><!--点评块/end--><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--><!-- 点评mini列表 --><div class="clearfix dianping-mini-list"><div class="pull-right dianping-mini-box"><a href="javascript:void(0);" title="文章还是不错的，实战出来的理论"><img src="http://images.huxiu.com/auth/data/avatar/000/30/82/80_avatar_middle.jpg" width="20" height="20"></a>
+                <a href="javascript:void(0);" title="文章还是不错的，实战出来的理论" class="no-img">文章还是不错的，实战出来的理论</a><a href="javascript:void(0);" class="a-more" title="更多">…</a>
+                <i class="icon-i i-dianping-list-jiao"></i>
+            </div>
+        </div>
+        <!-- 点评mini列表/end --></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483729">
+        <div class="user-img">
+            <a href="/member/272303.html" title="杨泽（seo老鼠）" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/27/23/03_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="272303" href="/member/272303.html" target="_blank" title="杨泽（seo老鼠）">杨泽（seo老鼠）</a><span class="signature" title=""></span>
+
+            <div class="view-info">我觉得你要是单单想他只想做电商的梦，有点小，我到觉得是想控制住入口以“去中心化”为借口，来遏制一些公司在移动互联网的发展</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2014-12-12 08:31</time>
+           <span class="report-btn" reportid="483729" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483729" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483729" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483729" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483729" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483729" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483729" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483729" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483729" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span>(1)</span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483729">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid484031">
+        <div class="user-img">
+            <a href="/member/307302.html" title="wuyuchen" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/30/73/02_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="307302" href="/member/307302.html" target="_blank" title="wuyuchen">wuyuchen</a><span class="signature" title=""></span>
+
+            <div class="view-info">微信的商业价值确实还需要深度挖掘，但首先他是一个社交产品。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2天前</time>
+           <span class="report-btn" reportid="484031" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="484031" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="484031" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="484031" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="484031" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="484031" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="484031" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="484031" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="484031" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="484031">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483976">
+        <div class="user-img">
+            <a href="/member/91475.html" title="shanshibo" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/09/14/75_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="91475" href="/member/91475.html" target="_blank" title="shanshibo">shanshibo</a><span class="signature" title="薯立方，创造薯类产品奇迹，引领...">薯立方，创造薯类产品奇迹，引领...</span>
+
+            <div class="view-info">作者好像分析的很牛逼的样子，怎么没看到电商老兵使用微信作出一个很好的范例呢？<br>
+希望不要一直做”意见领袖“ ”纸上谈兵！！“<br>
+&nbsp;&nbsp;一切“空谈党"都是纸老虎！！</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">2天前</time>
+           <span class="report-btn" reportid="483976" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483976" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483976" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483976" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483976" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483976" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483976" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483976" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483976" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483976">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483910">
+        <div class="user-img">
+            <a href="/member/267137.html" title="橘子水的味道灬" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/26/71/37_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="267137" href="/member/267137.html" target="_blank" title="橘子水的味道灬">橘子水的味道灬</a><span class="signature" title=""></span>
+
+            <div class="view-info">微信再多点乱七八糟卖东西的人，我就不用了，烦死了。</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">3天前</time>
+           <span class="report-btn" reportid="483910" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483910" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483910" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483910" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483910" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483910" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483910" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483910" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483910" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483910">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--></div><!--评论块/end--><div class="clearfix pinglun-box pinglun-box-set" id="g_pid483899">
+        <div class="user-img">
+            <a href="/member/1318931.html" title="黑脸大叔" class="tx-img" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/001/31/89/31_avatar_small.jpg" width="50" height="50"></a>
+            <div class="wz-author"></div></div>
+
+        <div class="pinglun-box-text">
+            <a class="name hx-card" userid="1318931" href="/member/1318931.html" target="_blank" title="黑脸大叔">黑脸大叔</a><span class="signature" title=""></span>
+
+            <div class="view-info">好文章呀（反0</div>
+        </div>
+
+        <div class="clearfix view-func">
+            <time class="pull-left s-time">3天前</time>
+           <span class="report-btn" reportid="483899" aid="103724" typename="comment">举报</span>
+            <span class="pl-share"><i class="icon-i"></i>分享
+                    <div class="share-box side-share-box2">
+                            <ul>
+                                <li class="pos-btn hxs-tsina" des="hxs_tsina" pid="483899" aid="103724" title="分享到新浪微博"></li>
+                                <li class="pos-btn hxs-tqq" des="hxs_tqq" pid="483899" aid="103724" title="分享到腾讯微博"></li>
+                                <li class="pos-btn hxs-qzone" des="hxs_qzone" pid="483899" aid="103724" title="分享到QQ空间"></li>
+                                <li class="pos-btn hxs-renren" des="hxs_renren" pid="483899" aid="103724" title="分享到人人网"></li>
+                                <li class="pos-btn hxs-douban" des="hxs_douban" pid="483899" aid="103724" title="分享到豆瓣"></li>
+                                <li class="pos-btn hxs-t163" des="hxs_t163" pid="483899" aid="103724" title="分享到网易微博"></li>
+                                <li class="pos-btn hxs-linkedin" des="hxs_linkedin" pid="483899" aid="103724" title="分享到linkedin"></li>
+                                <li class="pos-btn hxs-tomail" des="hxs_tomail" pid="483899" aid="103724" title="分享到邮件分享"></li>
+                            </ul>
+                    </div>
+            </span>
+            <span class="agree"><i class="icon-i"></i>顶<span></span></span>
+            <span class="disagree"><i class="icon-i"></i>踩<span></span></span>
+            <span class="reply"><i class="icon-i"></i>点评<span class="dp-num"></span></span>
+        </div><!-- 点评列表 --><div class="clearfix dianping-list"><!-- 点评输入块 -->
+            <div class="clearfix dianping-form">
+                <form onsubmit="return false;" action="POST" method="/forum.php?mod=hxpost&amp;action=reply&amp;type=2&amp;aid=aid">
+                    <div class="dianping-textarea"><div style="margin-right:12px;"><a class="btn" style="width:100%;" href="#lgnModal" data-toggle="modal">登录后可点评，点击登录</a></div></div>
+                    <input type="reset" style="display:none">
+                    <input type="hidden" name="aid" value="103724">
+                    <input type="hidden" name="pid" value="483899">
+                    <input type="hidden" name="reppid" value="">
+                    <input type="hidden" name="act" value="add_postcomment">
+                </form>
+            </div>
+            <!-- 点评输入/end --><i class="icon-i i-dianping-jiao"></i><i class="icon-i i-dianping-close"></i></div><!--点评列表/end--></div><!--评论块/end-->
+        <div class="clearfix pages">
+                    </div>
+    </div>
+    <!-- 评论列表/ --><a href="/comment/103724/1.html" class="pinglun-more-a" target="_blank">全部评论</a>    </div>
+    <!-- 评论/ -->
+    </div>
+    </div>
+    <div class="side-container-hx">
+            <div class="clearfix author-card3">
+                <div class="pull-left author-card-img">
+            <p class="p-1"><a href="/member/161540/1.html" title="电商老兵斗牛士" target="_blank"><img border="0" src="http://images.huxiu.com/auth/data/avatar/000/16/15/40_avatar_small.jpg"></a></p>
+        </div>
+        <div class="author-card-box">
+            <p class="card-name-p"><a class="card-name hx-card" userid="161540" href="/member/161540/1.html" target="_blank">电商老兵斗牛士</a>
+                <a href="/member/161540/authorapply.html" target="_blank" class="c-hxrz hxrzzz hxrzzz-level-4" title="虎嗅认证作者"></a>            </p>
+            <p class="yijuhua" title="互联网战略分析师，关注传统产业互联网战略转型！微信号torero2013">互联网战略分析师，关注传统产业...</p><p class="card-weibo"><i class="icon-gl2 icon-weibo2"></i><span><a href="http://www.weibo.com/penghailiang" target="_blank" title="查看电商老兵斗牛士的微博">http://www.weibo.com/penghailiang</a></span></p>            <p class="p-btn"><a href="javascript:void(0)" act="add_author" uid="161540" class="dy-btn">订阅</a>
+                <a href="/member/sendmsg_message.html?msgto=电商老兵斗牛士" target="_blank">私信</a>
+                <a href="javascript:void(0)" title="斗牛人" class="author-weixin">微信<i class="author-weixin-box">Ta的微信号：<br>斗牛人</i></a><a href="javascript:void(0)" title="torero2013" class="author-weixin">公众号<i class="author-weixin-box">Ta的微信公众号：<br>torero2013<br><img src="/static/img/usercard_no_erweima.jpg" width="100px" height="100px"></i></a>            </p>
+        </div>
+        <div class="clearfix author-article"><h3><b>Ta的文章(63)</b><a href="/member/161540.html" target="_blank">更多</a></h3><ul><li><a href="/article/101148/1.html" title="关于双11真相的几个冷思考！" target="_blank">关于双11真相的几个冷思考！</a></li><li><a href="/article/101055/1.html" title="诡异的111，看阿里在资本市场如何提前过“双十一”" target="_blank">诡异的111，看阿里在资本市场如何提前过...</a></li><li><a href="/article/100776/1.html" title="巨头创业者竞相做起社区O2O，滋味都不好受" target="_blank">巨头创业者竞相做起社区O2O，滋味都不好...</a></li></ul></div>    </div>
+    <div class="hot-view">
+        <h3 class="t-h2"><em>收录此文章的文集</em></h3>
+
+        <div class="view-list idx-view">
+            <div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/collections/12427.html" target="_blank"><img src="http://upload.huxiu.com/upload/anthology/20140510/7e69d3f5e0360efaa28488332cc871c5_thumb.png"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/collections/12427.html" target="_blank">微信</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="65858" href="/member/65858.html" target="_blank">王帆要努力</a></span>
+                        <p><time>2014-12-12 18:47</time></p>
+                    </div>
+                </div>
+            </div><div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/collections/839127.html" target="_blank"><img src="http://images.huxiu.com/article/cover/201412/12/072910093155.jpg"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/collections/839127.html" target="_blank">社区</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="1318761" href="/member/1318761.html" target="_blank">lwx</a></span>
+                        <p><time>2014-12-13 13:45</time></p>
+                    </div>
+                </div>
+            </div>        </div>
+    </div>
+<div id="lagou_ad" class="jobAds jobAds-3" style="display: block;"><div class="promo"><a href="/tools/jump_job_to?j=lagou&amp;pos=4&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.lagou.com/%3Futm_source=AD__huxiu_banner%26utm_medium=front%26utm_campaign=toufang" target="_blank"><img src="/static/img/jobAds/lagou_promo_1020.png"></a></div><div class="positions"><ul class="positions-list"><li class="position-item"><a href="/tools/jump_job_to?j=lagou&amp;pos=4&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.lagou.com/jobs/296914.html%3Fhuxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="文案策划">文案策划</dt><dd class="company">印功夫微信打印机</dd><dd class="salary"><em>5k-10k</em></dd><dd class="advantage">职位诱惑: 福利待遇好，双薪，年终奖，绩...</dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=lagou&amp;pos=4&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.lagou.com/jobs/359362.html%3Fhuxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="运营总监兼副总经理">运营总监兼副总经理</dt><dd class="company">投融客</dd><dd class="salary"><em>7k-10k</em></dd><dd class="advantage">职位诱惑: 营销策略,发展前景</dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=lagou&amp;pos=4&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.lagou.com/jobs/359273.html%3Fhuxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="游戏运营">游戏运营</dt><dd class="company">腾讯</dd><dd class="salary"><em>10k-18k</em></dd><dd class="advantage">职位诱惑: 好项目 好平台</dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=lagou&amp;pos=4&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.lagou.com/jobs/359268.html%3Fhuxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="游戏运营">游戏运营</dt><dd class="company">腾讯</dd><dd class="salary"><em>10k-15k</em></dd><dd class="advantage">职位诱惑: 项目好 平台好</dd></dl></a></li><li class="position-item"><a href="/tools/jump_job_to?j=lagou&amp;pos=4&amp;f=web&amp;jtid=1uzed0dbtv&amp;cc=20141029ff9862f34e3bd6a79286e2af518ef67c&amp;jumpto=http://www.lagou.com/jobs/359154.html%3Fhuxiu_id%3D1b902831a2" target="_blank"><dl><dt class="title" title="新媒体运营主管">新媒体运营主管</dt><dd class="company">新新贷</dd><dd class="salary"><em>10k-16k</em></dd><dd class="advantage">职位诱惑: 五险一金、各种补贴、绩效奖金</dd></dl></a></li></ul></div><div id="control"><div class="up-button job-buttons"><i></i></div><div class="down-button job-buttons"><i></i></div></div></div>    <div class="hot-view">
+        <h3 class="t-h2"><em>热门文章</em></h3>
+
+        <div class="view-list idx-view">
+            <div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/article/102520/1.html" target="_blank"><img src="http://images.huxiu.com/article/cover/201412/01/160845818690.png"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/article/102520/1.html" target="_blank">独家探营百度攻城狮学堂：百度的技术投入、实力与看家本领</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="19" href="/member/19.html" target="_blank">虎嗅</a></span>
+                        <p><time>2014-12-02 07:30</time><span class="comment-box"><i class="icon-comment"></i><a href="/comment/102520/1.html" target="_blank">16</a></span></p>
+                    </div>
+                </div>
+            </div><div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/article/102879/1.html" target="_blank"><img src="http://images.huxiu.com/article/cover/201412/02/072030059981.jpg"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/article/102879/1.html" target="_blank">先放下对余佳文的质疑争议，看看他说产品、市场与管理的这些话，有没有一些道理</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="0" href="http://www.forbeschina.com/review/201412/0039166.shtml" target="_blank">福布斯</a></span>
+                        <p><time>2014-12-02 07:21</time><span class="comment-box"><i class="icon-comment"></i><a href="/comment/102879/1.html" target="_blank">60</a></span></p>
+                    </div>
+                </div>
+            </div><div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/article/102742/1.html" target="_blank"><img src="http://images.huxiu.com/article/cover/201411/30/181016184502.jpg"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/article/102742/1.html" target="_blank">过去一周虎嗅上的十篇热文（11.24-11.30)</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="19" href="/member/19.html" target="_blank">虎嗅</a></span>
+                        <p><time>2014-11-30 18:29</time><span class="comment-box"><i class="icon-comment"></i><a href="/comment/102742/1.html" target="_blank">7</a></span></p>
+                    </div>
+                </div>
+            </div><div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/article/102248/1.html" target="_blank"><img src="http://images.huxiu.com/article/cover/201411/29/084703814987.jpg"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/article/102248/1.html" target="_blank">看呐，那25岁以下的“数字青年”</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="0" href="" target="_blank">王煜全</a></span>
+                        <p><time>2014-11-29 08:45</time><span class="comment-box"><i class="icon-comment"></i><a href="/comment/102248/1.html" target="_blank">15</a></span></p>
+                    </div>
+                </div>
+            </div><div class="clearfix view-box">
+                <div class="pull-left img-box">
+                    <p><a href="/article/102590/1.html" target="_blank"><img src="http://images.huxiu.com/article/cover/201411/28/072700165347.jpg"></a></p></div>
+                <div class="view-box-ctt">
+                    <h4><a href="/article/102590/1.html" target="_blank">90后创业明星的幕后推手与吹牛潜规则</a></h4>
+                    <div class="box-other">
+                        <span class="source-quote"><a class="hx-card" userid="234174" href="/member/234174.html" target="_blank">李东楼</a><a href="/member/234174/authorapply.html" target="_blank" class="c-hxrz hxrzzz hxrzzz-level-2" title="虎嗅认证作者"></a></span>
+                        <p><time>2014-11-28 07:30</time><span class="comment-box"><i class="icon-comment"></i><a href="/comment/102590/1.html" target="_blank">44</a></span></p>
+                    </div>
+                </div>
+            </div>        </div>
+    </div>
+
+
+
+
+    </div>
+</div>
+<footer class="footer">
+    <div class="about-links">
+        <a href="/about.html">关于我们</a>|<a href="/joinus.html">加入我们</a>|<a href="/contact.html">广告及服务</a>|<a href="/help.html">常见问题解答</a>|<a href="javascript:void(0);" id="report_brn">提交建议</a>
+    </div>
+            <div class="footer-copy">
+        Copyright ©  <a href="http://www.huxiu.com">虎嗅网</a> ( <a href="http://www.miitbeian.gov.cn/" target="_blank">京ICP备12013432</a> ) <a href="http://www.huxiu.com" class="footer-logo">虎嗅网</a>
+    </div>
+    <!-- 返回顶部 -->
+    <div class="go-top" style="display: block; right: 90px; position: fixed; bottom: 10px;">
+        <i class="pos-btn" onclick="window.scrollTo('0', '0')">^</i>
+    </div>
+    <!-- /返回顶部 -->
+
+</footer></div>
+</div>
+</div>
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+    <div id="lgnModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            <h3 id="myModalLabel">登录</h3>
+        </div>
+        <div class="float-box">
+            <div class="float-login-box">
+                <div class="login-info">虎嗅帐号登录：</div>
+                <form name="name" id="float_form_lgn" action="/user/logindo?type=local" method="get" class="form-horizontal">
+                    <div class="control-group control-name">
+                        <label class="control-label" for="inputName">帐　号：</label>
+                        <div class="controls">
+                            <input type="text" id="inputName" name="username" tabindex="1" placeholder="用户名/邮箱">
+                            <span class="help-inline"></span>
+                        </div>
+                    </div>
+                    <div class="control-group control-pwd">
+                        <label class="control-label" for="inputPassword">密　码：</label>
+                        <div class="controls">
+                            <input type="password" id="inputPassword" name="password" tabindex="2">
+                            <span class="help-inline"><a href="/user/find_passwd " target="_blank">忘记密码?</a></span>
+                        </div>
+                    </div>
+                    <div class="control-group ctl-auto-ipt">
+                        <div class="controls">
+                            <label class="checkbox">
+                                <input type="checkbox" id="autolgn" tabindex="3"> 2周内自动登录
+                            </label>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="controls">
+                            <input id="submitcode" type="hidden" name="submit" value="f5033bc6">
+                            <input type="hidden" id="formhash" name="formhash" value="luxuejian">
+                            <button type="submit" class="btn lgn-btn" tabindex="4">登录</button>
+                            <a href="/user/register" class="lgn-reg-btn" target="_blank">注册</a>
+                        </div>
+                    </div>
+                </form>
+                <div class="login-info">快捷登录：</div>
+                <div class="login-kj"><a class="weibo-lgn" href="/user/oauth_login/sina?type=sina&amp;backurl=http://www.huxiu.com/article/103724/1.html">新浪微博帐号登录</a><a class="qq-lgn" href="/user/oauth_login/qq?type=qq&amp;sid=&amp;backurl=http://www.huxiu.com/article/103724/1.html">QQ帐号登录</a></div>
+            </div>
+        </div>
+    </div>
+
+<script src="/static/js/sea_config.js"></script>
+<div style="display: none">
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F324368ef52596457d064ca5db8c6618e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src=" http://hm.baidu.com/h.js?324368ef52596457d064ca5db8c6618e" type="text/javascript"></script>
+
+<script src="http://z.huxiu.com/cc/tjj.js?uid=0&amp;last_page=http%3A%2F%2Fwww.huxiu.com%2Ffocus" type="text/javascript">
+</script>
+</div>
+
+
+<div id="at-view" class="at-view"><ul id="at-view-ul"></ul></div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div>

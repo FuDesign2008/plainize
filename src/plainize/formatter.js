@@ -10,7 +10,6 @@ define(function (require) {
         TIMES = require('../core/str/times'),
         TRIM = require('../core/str/trim'),
         STARTS_WITH = require('../core/str/startsWith'),
-        //TITLEIZE = require('../core/str/titleize'),
         IS_TAG = require('../web/dom/isTag'),
         PAD = require('../core/str/pad'),
 
@@ -87,7 +86,7 @@ define(function (require) {
         anchor: function (el, fn, options) {
             var text = fn(el, options) || '',
                 href = TRIM(el.getAttribute('href'));
-            if (!/^[#\/\.]/.test(href) && href !== TRIM(text)) {
+            if (!/^([#\/\.]|javascript)/.test(href) && href !== TRIM(text)) {
                 text += '[' + href + ']';
             }
             return text;
