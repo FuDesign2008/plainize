@@ -185,5 +185,8 @@ define(function (require) {
     };
 
 
-    return plainize;
+    return {
+        plainize: plainize,
+        parseHTML: PARSE_HTML
+    };
 });

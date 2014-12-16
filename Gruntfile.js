@@ -2,6 +2,10 @@
 
 module.exports = function(grunt) {
 
+    var buildConfig = {
+        compressJS: true
+    };
+
     grunt.initConfig({
         clean: {
             dist: ['dist/'],
@@ -17,7 +21,7 @@ module.exports = function(grunt) {
             plainize: {
                 options: {
                     exportsAsLib: {
-                        initModule: 'plainize/plainize.js',
+                        initModule: 'plainize/plainize',
                         exportsName: 'plainize'
                     }
                 },
@@ -26,6 +30,15 @@ module.exports = function(grunt) {
                 src: 'plainize/plainize.js',
                 dest: './dist/',
                 ext: '.combo.js'
+            }
+        },
+        concat: {
+            plainizeFakeUglify: {
+                files: {
+                    'dist/plainize.js': [
+                        'dist/plainize/plainize.combo.js'
+                    ]
+                }
             }
         },
         uglify: {
@@ -49,11 +62,13 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
 
     grunt.registerTask('hint', ['jshint']);
+
     grunt.registerTask('default', [
             'hint',
             'clean:dist',
             'combo:plainize',
-            'uglify:plainize',
+            buildConfig.compressJS ?
+                'uglify:plainize' : 'concat:plainizeFakeUglify',
             'clean:plainizeEnd'
         ]);
 

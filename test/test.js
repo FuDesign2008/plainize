@@ -1,20 +1,23 @@
 
-define(function (require) {
+(function () {
 
     var $ = window.jQuery || window.$,
-        PLAINIZE = require('../src/plainize/plainize'),
-        //console = require('../src/core/console'),
-        PARSE_HTML = require('../src/web/dom/parseHTML'),
+        plainize = window.plainize,
         testUrl = './huxiu.txt';
+
+    if (!plainize) {
+        document.body.innerHTML = '<h1>NO window.plainize</h1>';
+        return;
+    }
 
     $.ajax({
         url: testUrl,
         dataType: 'text',
         success: function (data) {
-            var plainized = PLAINIZE(data, {}),
+            var plainized = plainize.plainize(data, {}),
                 $textarea = $('textarea', document.body),
                 $wrapper = $('#wrapper'),
-                parsed = PARSE_HTML(data, document, true);
+                parsed = plainize.parseHTML(data, document, true);
 
             $(parsed).find('script').remove();
 
@@ -27,4 +30,4 @@ define(function (require) {
         }
     });
 
-});
+})();
