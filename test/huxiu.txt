@@ -1,5 +1,6 @@
 <div class="hx-hover-card" style="top: 18px; left: 182px;"><div class="hx-hover-card-arrow2"></div><div class="hx-hover-card-border"></div><div class="hx-hover-card-container"><div class="hx-hover-card-content">
         <div class="hx-hover-card-left">
+            <p>联系我<a href="mailto:fudesign2008@163.com">fuyg</a></p>
             <p class="p1"><a class="hx-hover-card-avator" href="/member/161540.html" target="_blank"><img src="http://images.huxiu.com/auth/data/avatar/000/16/15/40_avatar_middle.jpg" height="60" width="60"></a></p>
             <p class="p2"><span class="hx-card-btn dy-btn" title="订阅TA的文章" act="add_author" uid="161540">订阅</span></p>
             <p class="p3"><a class="hx-card-btn sx-btn" href="/member/sendmsg_message.html?msgto=电商老兵斗牛士" target="_blank">私信</a></p>

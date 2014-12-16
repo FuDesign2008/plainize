@@ -85,8 +85,14 @@ define(function (require) {
         },
         anchor: function (el, fn, options) {
             var text = fn(el, options) || '',
-                href = TRIM(el.getAttribute('href'));
+                href = TRIM(el.getAttribute('href')),
+                mailProtocol = 'mailto:';
             if (!/^([#\/\.]|javascript)/.test(href) && href !== TRIM(text)) {
+                // remove mailto protocol
+                if (STARTS_WITH(href, mailProtocol)) {
+                    href = TRIM(href.substring(mailProtocol.length));
+                }
+
                 text += '[' + href + ']';
             }
             return text;
@@ -244,20 +250,23 @@ define(function (require) {
                     var lines = row._maxLines || 1,
                         linesData = [],
                         index,
-                        oneLine;
+                        oneLine,
+                        /**
+                         * @param {Array<String>} td
+                         * @param {Integer} tdIndex
+                         */
+                        handleRow = function (td, tdIndex) {
+                            oneLine += PAD(td[index] || '',
+                                colContentMaxSize[tdIndex] + 2,
+                                ' ', 'right', strLen);
+                        };
 
                     console.log(row);
 
                     for (index = 0; index < lines; index++) {
                         oneLine = '';
-                        /**
-                         * @param {Array<String>} td
-                         */
-                        _.each(row, function (td, tdIndex) {
-                            oneLine += PAD(td[index] || '',
-                                colContentMaxSize[tdIndex] + 2,
-                                ' ', 'right', strLen);
-                        });
+
+                        _.each(row, handleRow);
 
                         console.log('oneLine: ' + oneLine);
 
@@ -265,7 +274,13 @@ define(function (require) {
                     }
 
 
-                    return linesData.join('\n') + '\n';
+                    linesData = linesData.join('\n') + '\n';
+
+                    if (isHead) {
+                        linesData = linesData.toUpperCase();
+                    }
+
+                    return linesData;
                 };
 
             _.each(el.childNodes, function (child) {
