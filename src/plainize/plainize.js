@@ -138,7 +138,10 @@ define(function (require) {
      * @param {Node|String} html
      * @param {Object} [options]
      * @param {Integer} [options.maxLength = 0]
-     * @param {Object} [options.skipElements = {script: true, style: true}]
+     * @param {Object} [options.skipElements = { script: true,
+     *                                           noscript: true,
+     *                                           style: true
+     *                                          }]
      * @return {String}
      *
      */
