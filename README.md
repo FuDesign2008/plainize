@@ -5,3 +5,5 @@ Convert html to  plain text with beauty format in browser, inspired by https://g
 
 
 ##example
+
+http://fudesign2008.github.io/plainize/test.html
