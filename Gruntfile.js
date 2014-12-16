@@ -4,7 +4,8 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
         clean: {
-            dist: ['dist/']
+            dist: ['dist/'],
+            plainizeEnd: ['dist/plainize']
         },
         jshint: {
             options: {
@@ -31,7 +32,7 @@ module.exports = function(grunt) {
             plainize: {
                 files: {
                     'dist/plainize.js': [
-                        'dist/plainize.combo.js'
+                        'dist/plainize/plainize.combo.js'
                     ]
                 }
             },
@@ -50,8 +51,10 @@ module.exports = function(grunt) {
     grunt.registerTask('hint', ['jshint']);
     grunt.registerTask('default', [
             'hint',
+            'clean:dist',
             'combo:plainize',
-            'uglify:plainize'
+            'uglify:plainize',
+            'clean:plainizeEnd'
         ]);
 
 };

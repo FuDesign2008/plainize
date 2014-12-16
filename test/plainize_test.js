@@ -3,7 +3,7 @@ define(function (require) {
 
     var $ = window.jQuery || window.$,
         PLAINIZE = require('../src/plainize/plainize'),
-        console = require('../src/core/console'),
+        //console = require('../src/core/console'),
         PARSE_HTML = require('../src/web/dom/parseHTML'),
         testUrl = './huxiu.txt';
 
